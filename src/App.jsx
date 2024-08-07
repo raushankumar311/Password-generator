@@ -84,7 +84,7 @@ function App() {
               type="checkbox"
               checked={charAllowed}
               id="characterInput"
-              onChange={() => {
+              onChange={() => {cd 
                 setCharAllowed((prev) => !prev);
               }}
             />
